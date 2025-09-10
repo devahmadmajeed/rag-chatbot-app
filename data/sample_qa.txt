@@ -1,0 +1,29 @@
+Q: How do I create an account?
+A: To create an account, click the 'Sign Up' button on the homepage, fill in your details, and verify your email address.
+
+Q: How do I reset my password?
+A: Go to the login page, click 'Forgot Password', enter your email address, and follow the instructions sent to your email.
+
+Q: What are the pricing plans?
+A: We offer three plans: Basic ($9/month), Pro ($19/month), and Enterprise ($49/month). Each includes different features and usage limits.
+
+Q: How do I contact support?
+A: You can contact our support team through the 'Help' section in your dashboard, or email us at support@yourapp.com.
+
+Q: Is there a mobile app?
+A: Yes! Our mobile app is available for both iOS and Android. Download it from the App Store or Google Play Store.
+
+Q: How do I delete my account?
+A: To delete your account, go to Settings > Account > Delete Account. Note that this action is irreversible.
+
+Q: What payment methods do you accept?
+A: We accept all major credit cards (Visa, MasterCard, American Express), PayPal, and bank transfers for enterprise plans.
+
+Q: Can I export my data?
+A: Yes, you can export your data anytime by going to Settings > Data Export. We support CSV, JSON, and PDF formats.
+
+Q: Do you offer refunds?
+A: We offer a 30-day money-back guarantee for all paid plans. Contact support to request a refund.
+
+Q: How secure is my data?
+A: We use enterprise-grade encryption, regular security audits, and comply with GDPR and SOC 2 standards to protect your data.

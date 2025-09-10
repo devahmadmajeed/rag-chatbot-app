@@ -1,0 +1,314 @@
+Q: What is this app designed for?
+A: Our app is built to support individuals with speech and language disorders such as stuttering, voice disorders, expressive language difficulties, and receptive language difficulties. It provides screening tools, therapy exercises, progress tracking, and resources to help users and their families better manage communication challenges.
+
+Q: Who can benefit from using this app?
+A: The app is designed for children and adults experiencing stuttering, individuals with voice disorders (hoarseness, vocal strain, pitch issues, etc.), people struggling to express themselves (Expressive Language Disorder), people who have difficulty understanding spoken or written language (Receptive Language Disorder), and parents, caregivers, and speech-language therapists.
+
+Q: Is the app suitable for all ages?
+A: Yes, the app is designed with age-appropriate exercises for both children and adults. Interactive games are available for younger users, while structured practice modules support older teens and adults.
+
+Q: How do I get started with the app?
+A: Getting started is simple. After you download and open the app, you'll be prompted to sign up by creating a secure account using your email address. Once your account is set up, the app will guide you through a quick setup process including creating a user profile and optionally taking a preliminary screening.
+
+Q: Can I use the app without an internet connection?
+A: No, a persistent internet connection is required for the app's core functionality. The app relies on an internet connection for essential features like real-time speech analysis and AI-powered feedback.
+
+Q: I forgot my password. How can I reset it?
+A: On the login screen, tap "Forgot Password." Enter the email address associated with your account, and you will receive a link to reset your password.
+
+Q: Is the app available on both iOS and Android?
+A: Yes, the app is available for download on both the Apple App Store for iOS devices and the Google Play Store for Android devices.
+
+Q: I'm having trouble with microphone or camera. What should I do?
+A: Check Settings by going to your phone's Settings > IzzyAi > Permissions and make sure Microphone and Camera are enabled. Restart the app by fully closing and reopening it. Check for blockages to ensure nothing is covering the mic or camera on your device.
+
+Q: How do I update the app?
+A: Updates are managed through your device's app store (App Store for iOS or Google Play Store for Android). You can enable automatic updates in your device's settings to always have the latest version.
+
+Q: How is progress tracked in the app?
+A: Users receive personalized dashboards, daily/weekly progress reports, and comparison graphs to monitor improvement over time.
+
+Q: Is my data private and secure?
+A: Yes. All data and recordings are encrypted and stored securely. The app follows HIPAA and GDPR standards for user privacy.
+
+Q: Can this app replace speech therapy with a professional?
+A: No. The app is a supportive tool but not a replacement for professional speech-language therapy. It is best used alongside professional guidance.
+
+Q: What causes stuttering?
+A: Stuttering is caused by a combination of genetic, neurological, and developmental factors.
+
+Q: Is stuttering hereditary?
+A: Yes, stuttering can run in families. Children with a family history of stuttering are more likely to develop it, though not all children with family history will stutter.
+
+Q: How do you determine the severity of stuttering?
+A: Severity is determined by frequency (how often stuttering occurs), duration (how long blocks or repetitions last), physical struggle signs (facial tension, eye blinking, or other body movements), and impact on daily life (emotional and social effects).
+
+Q: What tests or assessments are used to evaluate stuttering?
+A: Speech samples are recorded including spontaneous speech and reading, and parent questionnaires are used to assess communication impact.
+
+Q: What therapy options are available for stuttering?
+A: Therapy options include fluency shaping therapy (focuses on smooth, controlled speech), stuttering modification therapy (reduces struggle and tension during stuttering), cognitive-behavioral therapy (CBT) for addressing anxiety and self-confidence, and parent-led interventions for young children teaching strategies at home.
+
+Q: How long does stuttering therapy usually take?
+A: For children, improvement can occur in weeks to months. For older children and adults, months to years may be needed, especially for severe stuttering. Regular practice and follow-up are essential.
+
+Q: Can adults who stutter improve as much as children?
+A: Yes, adults can make significant progress, though therapy may take longer. Adults often benefit from fluency techniques and managing anxiety around speech.
+
+Q: Are there exercises I can practice at home for stuttering?
+A: Yes, common exercises include gentle onset of speech, slow relaxed speech, breathing and voice exercises, and practicing words or phrases that are challenging. Always follow the SLP's guidance to avoid reinforcing tension.
+
+Q: How can I manage stuttering in social situations?
+A: Take your time speaking, use pauses instead of rushing words, maintain eye contact to build confidence, practice techniques learned in therapy, and focus on communication rather than perfection.
+
+Q: What strategies help reduce stuttering at work or school?
+A: Speak slowly and deliberately, use prepared phrases for difficult situations, inform peers or colleagues about your stuttering if comfortable, and practice stress-reduction techniques as anxiety can worsen stuttering.
+
+Q: Should I tell others that I stutter?
+A: Yes, being open often reduces pressure and prevents misunderstandings. You can briefly explain, for example: "I sometimes stutter; please be patient."
+
+Q: How do I know if stuttering therapy is working?
+A: Signs include increased fluency in everyday speech, reduced tension or struggle, improved confidence and willingness to speak, and positive feedback from family, teachers, or colleagues.
+
+Q: Can stuttering completely go away, or will it always be there?
+A: Some people experience complete fluency, especially if therapy is early and consistent. Others may always have mild stuttering but can manage it effectively.
+
+Q: What are realistic goals for someone who stutters?
+A: Goals include speaking more fluently and confidently, reducing struggle or tension, participating in social, school, or work activities comfortably, and managing anxiety related to speaking.
+
+Q: Can therapy help with the anxiety or frustration caused by stuttering?
+A: Yes, therapy addresses both speech mechanics and emotional aspects, helping reduce stress, build confidence, and improve social interactions.
+
+Q: How can I build confidence while speaking with stuttering?
+A: Practice speaking in safe, supportive environments, use positive self-talk, focus on communication not perfection, celebrate small improvements, and gradually challenge yourself in more difficult situations.
+
+Q: What are common types of voice disorders?
+A: Common types include hoarseness/dysphonia (rough, breathy, or strained voice), vocal nodules or polyps (small growths on vocal cords from overuse), vocal cord paralysis or weakness (one or both vocal cords don't move properly), spasmodic dysphonia (involuntary voice breaks due to muscle spasms), functional voice disorders (voice issues with no structural damage, often from misuse), and pitch or volume problems (too high/low pitch or too soft/loud voice).
+
+Q: What are the signs and symptoms of voice disorders?
+A: Signs include hoarseness lasting more than 2-3 weeks, breathiness or weak voice, pitch changes (too high or low), voice fatigue after short speaking periods, pain or discomfort while speaking, and loss of voice or sudden voice breaks.
+
+Q: How is a voice disorder diagnosed?
+A: Diagnosis involves voice assessment by a speech-language pathologist observing pitch, loudness, and quality, laryngoscopy where an ENT uses a scope to see the vocal cords, acoustic analysis measuring frequency, intensity, and quality of voice, and patient history including vocal habits, medical history, and lifestyle factors.
+
+Q: What are the treatment options for voice disorders?
+A: Treatment includes voice therapy led by SLP with techniques for proper breath support, reducing strain and tension, and vocal exercises to strengthen or relax vocal cords. Medical treatment addresses underlying conditions like reflux or allergies, and surgery for nodules, polyps, or structural issues if needed. Lifestyle changes include adequate hydration, avoiding yelling or whispering excessively, and proper vocal hygiene.
+
+Q: Can voice disorders be prevented?
+A: Yes, by practicing proper voice use (no shouting or prolonged screaming), staying hydrated, using amplification when speaking to large groups, avoiding smoking or irritants, and taking vocal rest when needed.
+
+Q: Is my voice disorder temporary or permanent?
+A: It depends on the cause. Temporary conditions like hoarseness from a cold, mild strain, or allergies usually improve with rest and therapy. Chronic or permanent conditions like vocal cord nodules, paralysis, or neurological disorders may require longer therapy or medical intervention.
+
+Q: Can stress or anxiety make my voice worse?
+A: Yes. Stress or anxiety can increase muscle tension in the throat, making voice problems more noticeable. Therapy often includes strategies to manage tension and relaxation exercises.
+
+Q: Are there medical conditions contributing to my voice disorder?
+A: Common medical contributors include acid reflux (GERD), respiratory infections, allergies, thyroid problems, and neurological conditions like stroke or Parkinson's disease.
+
+Q: How severe is my voice disorder?
+A: Severity is assessed based on voice quality (hoarse, breathy, strained, or rough), pitch and volume control, and impact on daily life and communication. Therapists may use voice recordings, laryngoscopy, and standardized tests.
+
+Q: Are my vocal cords damaged?
+A: Damage can occur from overuse, nodules, polyps, or paralysis. An ENT doctor can examine your vocal cords using a laryngoscope, while the SLP evaluates function and quality.
+
+Q: What tests will you use to evaluate my voice?
+A: Tests include voice assessment listening to pitch, volume, and quality, acoustic analysis measuring frequency, intensity, and variations, laryngoscopy (ENT referral) for direct view of vocal cords, and patient history covering vocal habits, medical conditions, and lifestyle factors.
+
+Q: How can you tell the difference between normal voice changes and a disorder?
+A: A normal voice may vary slightly with age, fatigue, or temporary illness. A voice disorder is persistent, affects communication, or causes discomfort, which is assessed using professional evaluation and recordings.
+
+Q: What therapy methods will help my voice disorder?
+A: Methods include voice therapy led by SLP with exercises for proper breath support, relaxation, and correct vocal technique, functional exercises reducing strain and tension while speaking, behavioral changes including proper hydration, vocal rest, and avoiding yelling or whispering, and medical interventions like surgery or medication if underlying medical issues exist.
+
+Q: How long will voice disorder therapy take?
+A: Depends on severity and type of disorder. Mild voice disorders may improve in a few weeks to months. Moderate to severe disorders may take several months to a year. Consistency and home practice are essential for progress.
+
+Q: Can I do voice exercises at home?
+A: Yes. Common home exercises include breathing and relaxation exercises, gentle humming or vocal slides, and practicing smooth, controlled speech. Always follow the SLP's instructions to avoid strain.
+
+Q: Should I see an ENT doctor as well for voice disorders?
+A: Yes, especially if there is persistent hoarseness lasting more than 2-3 weeks, pain or discomfort, suspected vocal cord nodules, polyps, or paralysis, or voice changes that don't improve with therapy.
+
+Q: Are medications or surgery needed for voice disorders?
+A: Medications may be needed for reflux, allergies, or infections affecting the voice. Surgery is only needed if structural problems like nodules, polyps, cysts, or vocal cord paralysis require it. Most voice problems improve significantly with therapy alone.
+
+Q: How can I protect my voice in daily life?
+A: Avoid yelling or whispering, stay hydrated, take vocal rest after heavy use, use amplification (microphone) when speaking to large groups, and avoid smoking or irritants.
+
+Q: Are there activities I should avoid, like singing or shouting?
+A: Avoid prolonged yelling, screaming, or singing at extreme pitch until therapy improves technique. Whispering can strain the vocal cords. Proper warm-up and vocal technique allow safer singing or speaking.
+
+Q: Can I continue my job or hobbies that use my voice a lot?
+A: Yes, with proper vocal hygiene and therapy techniques. Voice therapy teaches safe ways to speak and sing, minimizing strain and preventing worsening of the disorder.
+
+Q: How can I prevent voice disorders from happening again?
+A: Follow vocal hygiene rules including hydration, rest, and safe speaking techniques, avoid vocal abuse like yelling or screaming, manage stress and tension in the throat, and have regular check-ups with SLP or ENT if voice is heavily used.
+
+Q: How will I know if voice therapy is working?
+A: Improvement signs include better voice quality, pitch, and loudness control, less fatigue or discomfort while speaking, ability to participate in social or work situations comfortably, and positive feedback from therapist, family, or colleagues.
+
+Q: Will my voice return to normal?
+A: Many people achieve near-normal or improved voice with therapy. Some structural or neurological issues may require ongoing management, and early intervention generally leads to better outcomes.
+
+Q: Can my voice disorder affect my confidence or communication?
+A: Yes, it can lead to anxiety about speaking, avoiding social or work situations, and frustration or low self-esteem. Voice therapy often addresses both speech mechanics and emotional impact to improve communication confidence.
+
+Q: What is an articulation disorder?
+A: An articulation disorder is a speech sound disorder where a child or adult has difficulty physically producing certain speech sounds correctly. Errors may include substitutions (like 'wabbit' for 'rabbit'), omissions, distortions, or additions.
+
+Q: What causes an articulation disorder?
+A: Causes include developmental delays, hearing loss, oral structure differences (like cleft palate or tongue-tie), neurological conditions, or unknown factors.
+
+Q: At what age should children produce sounds correctly?
+A: By age 3: p, b, m, h, w. By age 4: k, g, t, d, n, f. By age 5-6: l, r, s, ch, sh, j, v, z. By age 7-8: th. Delays beyond these ages may indicate a disorder.
+
+Q: How is articulation disorder different from phonological disorder?
+A: Articulation disorder is difficulty with physical production of sounds. Phonological disorder is a pattern of errors affecting groups of sounds.
+
+Q: How do you assess articulation disorders?
+A: SLPs use speech sound tests, spontaneous speech samples, oral mechanism exam, and hearing screening.
+
+Q: What are the common signs of an articulation disorder?
+A: Signs include consistent mispronunciations, speech that is hard to understand, lisping, or omissions and substitutions of sounds past expected ages.
+
+Q: Can articulation problems go away on their own?
+A: Mild errors may resolve naturally, but persistent errors usually require therapy to correct.
+
+Q: How do you treat articulation disorders?
+A: Treatment includes traditional articulation therapy, drill-based practice, auditory discrimination exercises, and minimal pairs exercises.
+
+Q: How long does articulation therapy take?
+A: It depends on severity, number of errors, motivation, and practice. Some improve in months, others may need a year or more.
+
+Q: Can adults have articulation disorders?
+A: Yes. Adults may have persistent childhood errors or new problems due to stroke, brain injury, or structural changes.
+
+Q: Are articulation disorders linked to intelligence?
+A: No. These disorders are not related to intelligence. Many children with articulation disorders develop normally otherwise.
+
+Q: What role does the family play in articulation therapy?
+A: Parents reinforce practice, encourage speaking, and create positive environments. Home support speeds progress.
+
+Q: Can bilingual children have articulation disorders?
+A: Yes, but errors must be distinguished from second-language influence. SLPs assess what is typical versus disordered.
+
+Q: What strategies help a child improve articulation faster?
+A: Short daily practice, modeling correct sounds, engaging games, and specific praise help children progress.
+
+Q: Can untreated articulation disorders cause problems later?
+A: Yes, they can affect intelligibility, confidence, participation, and literacy skills like spelling and reading.
+
+Q: How do I know if articulation therapy is working?
+A: Progress includes fewer errors, correct sounds in words and sentences, better everyday intelligibility, and increased confidence.
+
+Q: Will my child ever speak clearly with an articulation disorder?
+A: With consistent therapy and practice, most children achieve clear, intelligible speech with early intervention.
+
+Q: What is expressive language disorder?
+A: It is a communication disorder where a child or sometimes adult has difficulty using spoken or written language to express thoughts, ideas, or needs. Understanding language (receptive skills) may be normal, but expressing it is significantly below age expectations.
+
+Q: What causes expressive language disorder?
+A: Causes can include developmental delays, genetic factors, neurological conditions, hearing problems, or unknown causes.
+
+Q: How is expressive language disorder different from receptive language disorder?
+A: Expressive language disorder involves difficulty expressing thoughts, while receptive language disorder involves difficulty understanding words, instructions, or stories.
+
+Q: What are the common signs and symptoms of expressive language disorder?
+A: Signs include limited vocabulary, difficulty forming sentences, poor grammar, word-finding problems, trouble telling stories, and reliance on gestures instead of words.
+
+Q: At what age can expressive language disorder be identified?
+A: Signs may appear as early as 2-3 years. A clear diagnosis is usually made around preschool age (3-5 years).
+
+Q: How is expressive language disorder diagnosed?
+A: An SLP uses standardized language tests, conversational samples, vocabulary and grammar assessment, and parent and teacher reports.
+
+Q: How severe can expressive language disorder be?
+A: Severity ranges from mild (occasional grammar errors) to severe (very limited speech, relying on gestures).
+
+Q: Does expressive language disorder affect intelligence?
+A: No. Children with expressive language disorder usually have normal intelligence; the issue is specific to language expression.
+
+Q: How does expressive language disorder affect school performance?
+A: It can cause difficulty answering questions, writing, class participation, reading comprehension, and spelling.
+
+Q: Can expressive language disorder go away on its own?
+A: Some children improve naturally, but many need speech-language therapy. Without therapy, difficulties may persist.
+
+Q: What therapies are used for expressive language disorder?
+A: Treatment includes modeling and expansion, vocabulary building, sentence practice, storytelling, play-based therapy for young children, and structured oral and written expression for older children.
+
+Q: How long does expressive language disorder therapy take?
+A: Depends on severity and age. Some improve in months; others may need several years. Home practice speeds progress.
+
+Q: What role do parents play in expressive language disorder therapy?
+A: Parents should encourage conversation, read aloud daily, model correct grammar, and give time for the child to respond.
+
+Q: What strategies can teachers use for expressive language disorder?
+A: Simplify instructions, allow extra time, use visuals, accept multiple forms of responses, and break tasks into steps.
+
+Q: Can bilingual children have expressive language disorder?
+A: Yes. A true disorder appears in both languages, not just one. SLPs must distinguish disorder from second-language learning.
+
+Q: How do you measure progress in expressive language disorder?
+A: By observing increased vocabulary, longer sentences, better storytelling, and improved participation in conversations.
+
+Q: Will my child ever speak normally with expressive language disorder?
+A: With consistent therapy, most children achieve age-appropriate language. Some may always have mild weaknesses but still succeed.
+
+Q: Does expressive language disorder continue into adulthood?
+A: Yes, if untreated. Difficulties with expression, writing, or organizing language can persist. Early therapy improves outcomes.
+
+Q: Can expressive language disorder affect social skills?
+A: Yes. Children may avoid speaking, struggle with friendships, or get frustrated. Therapy often includes social communication practice.
+
+Q: What is the long-term outlook for expressive language disorder?
+A: Early and consistent therapy helps most children catch up. Some may need long-term academic support, especially with writing and complex grammar.
+
+Q: What is receptive language disorder?
+A: It is a language disorder where a child has difficulty understanding spoken or written language. The child may hear normally but struggles to process meaning, follow directions, or grasp the meaning of words and sentences.
+
+Q: How is receptive language disorder different from expressive language disorder?
+A: Receptive disorder is about understanding language, while expressive disorder is about using language. Many children may have both (mixed receptive-expressive language disorder).
+
+Q: What are the signs of receptive language disorder?
+A: Signs include trouble following instructions (especially multi-step ones), difficulty answering questions, limited attention to stories or conversations, confusion with concepts (size, colors, time words, spatial words like 'under/beside'), appearing not to listen even though hearing is normal, and may repeat phrases without understanding them.
+
+Q: What causes receptive language disorder?
+A: Causes can include developmental delays, neurological conditions (such as autism, intellectual disability, or brain injury), hearing issues, or sometimes unknown reasons.
+
+Q: At what age can receptive language disorder be diagnosed?
+A: Signs may appear as early as toddler years (around age 2-3), such as not responding to names or simple instructions. A clear diagnosis usually happens in preschool years (3-5 years).
+
+Q: How is receptive language disorder diagnosed?
+A: A Speech-Language Pathologist (SLP) assesses comprehension of vocabulary and grammar, ability to follow directions, understanding of stories, questions, and conversation, uses standardized language tests and considers parent and teacher observations.
+
+Q: Does receptive language disorder affect intelligence?
+A: Not necessarily. Children may have normal intelligence but specific language-processing difficulties. However, in some cases, it coexists with other developmental conditions.
+
+Q: How does receptive language disorder affect learning?
+A: It can impact following classroom instructions, understanding reading material, participating in group discussions, and later skills like reading comprehension and writing.
+
+Q: Can children grow out of receptive language disorder?
+A: Some children with mild delays improve naturally, but most require targeted speech-language therapy. Without support, difficulties may persist and affect academic and social skills.
+
+Q: What therapies are used for receptive language disorder?
+A: Treatment includes visual supports (pictures, gestures, schedules), simplified instructions and repetition, teaching vocabulary and concepts in small steps, story retelling and comprehension exercises, play-based language learning for young children, and auditory memory activities.
+
+Q: What role do parents play in receptive language disorder therapy?
+A: Parents can use simple, clear language at home, check for understanding ('Show me the blue ball' instead of yes/no), read aloud daily and ask simple 'wh' questions, and use gestures, pictures and routines.
+
+Q: What role do teachers play in supporting receptive language disorder?
+A: Teachers can break down instructions into smaller steps, use visuals (charts, drawings, demonstrations), provide extra time for processing, and rephrase instead of repeating instructions louder.
+
+Q: Can bilingual children have receptive language disorder?
+A: Yes, but SLPs must separate a true disorder from normal second-language learning. A receptive disorder will appear in both languages.
+
+Q: How is progress measured in receptive language disorder therapy?
+A: By improved ability to follow directions, answer questions correctly, retell simple stories, and respond more accurately in conversation.
+
+Q: Can receptive language disorder affect social development?
+A: Yes. Children may avoid interactions, appear 'shy,' or misunderstand social cues, which can lead to frustration or isolation. Social communication therapy is often included.
+
+Q: What is the long-term outlook for receptive language disorder?
+A: With early and consistent therapy, many children catch up and function well in school and daily life. Severe cases may need long-term support but can still improve significantly.
